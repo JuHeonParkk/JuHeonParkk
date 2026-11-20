@@ -9,7 +9,7 @@
 <div align="center">
 <h3>안녕하세요, 프론트엔드 개발자 박주헌입니다!🤗</h3>
   
-<strong>Next.js</strong>와 <strong>TypeScript</strong> 기반 프론트엔드 기술을 중심으로 실무형 프로젝트를 경험하며, 사용자 경험과 코드 유지보수성을 함께 고민합니다. <br>
+<strong>Next.js</strong>와 <strong>TypeScript</strong> 기반 프론트엔드 기술을 중심으로 실무형 프로젝트를 경험하며, 사용자 경험과 코드 유지보수성을 함께 고민하고 개선해 왔습니다. <br>
 <strong>유저 플로우를 살펴 사용자의 불편한 지점을 발견</strong>하고 UI/UX, 웹 접근성, 성능 등을 개선하며 더 나은 사용자 경험을 만드는 데 관심이 있습니다!
   
 </div>
