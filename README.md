@@ -6,8 +6,6 @@
   >
 </p>
 
-<br>
-
 <div align="center">
 <h3>안녕하세요, 프론트엔드 개발자 박주헌입니다!🤗</h3>
   
@@ -54,7 +52,7 @@
   <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE5IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMjEiIGZpbGw9IiMzMzAwMDAiPkFpPC90ZXh0Pjwvc3ZnPg%3D%3D">
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuHeonParkk&layout=compact"><br><br>
